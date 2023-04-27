@@ -1,0 +1,21 @@
+.input-group{
+    margin-top: 2vh;
+    width: 60vw;
+    max-width: 600px;
+}
+
+.alert{
+    margin-top: 2vh;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#map {
+    height: 60vh;
+    width: 40vw;
+    align-content: center;
+}
